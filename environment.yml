@@ -1,0 +1,17 @@
+name: dask-exp
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - gfortran_linux-64
+  - matplotlib
+  - mkl
+  - mpich
+  - python=>3.8
+  - pip
+  - dask
+  - dask-mpi
+  - numpy
+  - snakemake
+  - pytest
+  - xarray
