@@ -1,4 +1,4 @@
-name: dask-exp
+name: dask-bench
 channels:
   - bioconda
   - conda-forge

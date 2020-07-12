@@ -1,5 +1,5 @@
 cd $PBS_O_WORKDIR
-source activate dask-exp
+source activate dask-bench
 
 n_procs=$1
 N=$2
