@@ -15,6 +15,11 @@ displaying it via a Jupyter notebook is provided. First create the environment:
 conda env create -v environment.yml
 ```
 
+The PBLAS code can then be compiled by running:
+```
+make
+```
+
 ## Execution
 
 The benchmark can then be executed via Snakemake. The exact method for this
